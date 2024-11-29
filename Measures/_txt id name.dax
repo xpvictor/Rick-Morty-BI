@@ -1,0 +1,2 @@
+_txt id name = 
+"#" & SELECTEDVALUE(df_character[id])& " | " & SELECTEDVALUE(df_character[name])

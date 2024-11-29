@@ -1,0 +1,2 @@
+
+_total character = DISTINCTCOUNT(df_character[id])

@@ -1,0 +1,2 @@
+_gender type = 
+SELECTEDVALUE(df_character[gender])

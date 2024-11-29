@@ -1,0 +1,4 @@
+_episodes showing = 
+CALCULATE(
+    COUNTAX(df_character,
+    CONTAINSSTRING("episode","episode")))

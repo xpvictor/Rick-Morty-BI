@@ -1,0 +1,17 @@
+_Static pic = 
+var vImage = SELECTEDVALUE(df_character[image])
+
+RETURN
+
+"
+    <style>
+        img {
+            width: 100vw;
+            height: 100vh;
+            object-fit: contains;
+            animation: anima_image 1s linear infinite alternate;
+        }
+    </style>
+
+    <img src='" & vImage& "'>
+"

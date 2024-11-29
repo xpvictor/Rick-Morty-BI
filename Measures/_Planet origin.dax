@@ -1,0 +1,2 @@
+_Planet origin = 
+SELECTEDVALUE(df_character[origin.name])

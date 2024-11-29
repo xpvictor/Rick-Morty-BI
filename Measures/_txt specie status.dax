@@ -1,0 +1,2 @@
+_txt specie status = 
+SELECTEDVALUE(df_character[species]) & " (" & SELECTEDVALUE(df_character[status]) & ")"

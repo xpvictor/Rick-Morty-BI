@@ -1,0 +1,25 @@
+_Animated pic = 
+var vImage = SELECTEDVALUE(df_character[image])
+
+RETURN
+
+"
+    <style>
+        img {
+            width: 100vw;
+            height: 100vh;
+            object-fit: contains;
+            
+            transform: scale(1);
+            animation: anima_image 1s linear infinite alternate
+        }
+
+        @keyframes anima_image{
+            to{
+                transform: scale(0.9)
+            }
+        }
+    </style>
+
+    <img src='" & vImage& "'>
+"

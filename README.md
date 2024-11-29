@@ -8,8 +8,8 @@
 
 <h2>Repository structure</h2>
 
-- [Measures](/Measures/)
-- [Power Query](/Power%20query/)
+- [Measures](/Measures/README.md)
+- [Power Query](/Power%20query/df_character.md)
 - [Samples](/Samples/)
     - [Background and images](/Samples/Background%20and%20images/)
     - [datasource](/Samples/datasource/)
@@ -17,7 +17,7 @@
 
 <h2>Power BI pages avaliable</h2>
 
-![page1](../Rick-Morty-BI/Files/Background%20and%20images/page%201.png)
-![page1](../Rick-Morty-BI/Files/Background%20and%20images/page%202.png)
-![page1](../Rick-Morty-BI/Files/Background%20and%20images/page%203.png)
+![page1](/Samples/Background%20and%20images/page%201.png)
+![page1](/Samples/Background%20and%20images/page%202.png)
+![page1](/Samples/Background%20and%20images/page%203.png)
 
